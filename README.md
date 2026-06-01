@@ -1,0 +1,2 @@
+# Explainable-ViT-GCN-Hybrid-Learning-for-Multi-Stage-Alzheimer-s-Disease-Classification-from-MRI
+This project proposes a hybrid Vision Transformer (ViT) and Graph Convolutional Network (GCN) model for Alzheimer’s Disease detection from MRI images. By combining global feature extraction, graph-based learning, and Explainable AI techniques, the framework enables accurate, interpretable, and early-stage diagnosis of Alzheimer’s Disease.
